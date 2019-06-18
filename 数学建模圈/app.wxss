@@ -1,0 +1,41 @@
+/**app.wxss**/
+.container{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.sc{
+  margin-top: 50rpx;
+  margin-bottom: 30rpx;
+  margin-left: 275rpx;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 200rpx;
+  height: 75rpx;
+  font-size: 30rpx;
+
+}
+/* 收藏功能样式 */
+.save{
+   width: 42rpx;
+   height:42rpx;
+   margin-left: 37rpx;
+   margin-right: 15rpx; 
+   margin-bottom: 4rpx;
+}
+.havecollect{
+  color:#e2d626;
+}
+.nocollect{
+  color: black;
+}
+.tip{
+display: flex;
+justify-content: center;
+text-align: center;
+font-size: 27rpx;
+color: #878c8d;
+
+}
+

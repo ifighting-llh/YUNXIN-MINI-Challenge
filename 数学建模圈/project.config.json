@@ -1,0 +1,164 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": false
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.4.0",
+	"appid": "wxb784282e9e823620",
+	"projectname": "%E6%88%91%E7%9A%84%E8%AE%A1%E7%AE%97%E5%99%A8",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"isGameTourist": false,
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 19,
+			"list": [
+				{
+					"id": -1,
+					"name": "basics",
+					"pathName": "pages/home/basics/basics",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "资源",
+					"pathName": "pages/resource/resource",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "书本详情",
+					"pathName": "pages/resource/book-detail/book-detail",
+					"query": ""
+				},
+				{
+					"id": 3,
+					"name": "课程",
+					"pathName": "pages/video/video",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "我的",
+					"pathName": "pages/mine/mine",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "意见反馈",
+					"pathName": "pages/mine/suggestion/suggestion",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "关于我们",
+					"pathName": "pages/mine/about-us/about-us",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "搜索 ",
+					"pathName": "pages/home/search/search",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "资源详情",
+					"pathName": "pages/resource/detail/detail",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "我的收藏",
+					"pathName": "pages/mine/correction/correction",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "推送",
+					"pathName": "pages/tuisong/tuisong",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "课程",
+					"pathName": "pages/video/video",
+					"query": ""
+				},
+				{
+					"id": 12,
+					"name": "更多视频",
+					"pathName": "pages/video/videolist/videolist",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "视频播放页",
+					"pathName": "pages/video/video-detail/video-detail",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "ppt展示",
+					"pathName": "pages/video/ppt-detail/ppt-detail",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "真题列表",
+					"pathName": "pages/video/paperlist/paperlist",
+					"query": ""
+				},
+				{
+					"id": 16,
+					"name": "真题详情",
+					"pathName": "pages/video/paperdetail/paperdetail",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "入门",
+					"pathName": "pages/resource/resource",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "入门详情",
+					"pathName": "pages/resource/basicdetail/basicdetail",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "测试",
+					"pathName": "pages/home/test/test"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,53 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/resource/resource",
+    "pages/video/video",
+    "pages/mine/mine",
+    "pages/home/search/search",
+    "pages/home/basics/basics",
+    "pages/resource/book-detail/book-detail",
+    "pages/mine/correction/correction",
+    "pages/mine/suggestion/suggestion",
+    "pages/mine/about-us/about-us",
+    "pages/video/videolist/videolist",
+    "pages/resource/detail/detail",
+    "pages/tuisong/tuisong",
+    "pages/video/video-detail/video-detail",
+    "pages/video/ppt-detail/ppt-detail",
+    "pages/video/paperlist/paperlist",
+    "pages/video/paperdetail/paperdetail",
+    "pages/resource/basicdetail/basicdetail"
+  ],
+  "windows": {},
+  "tabBar": {
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/home/home",
+        "iconPath": "images/icons/home0.jpg",
+        "selectedIconPath": "images/icons/home1.png"
+      },
+      {
+        "text": "基础",
+        "pagePath": "pages/resource/resource",
+        "iconPath": "images/icons/rumen0.jpg",
+        "selectedIconPath": "images/icons/rumen3.png"
+      },
+      {
+        "text": "进阶",
+        "pagePath": "pages/video/video",
+        "iconPath": "images/icons/ziyuan0.jpg",
+        "selectedIconPath": "images/icons/ziyuan3.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/mine/mine",
+        "iconPath": "images/icons/my1.png",
+        "selectedIconPath": "images/icons/my3.png"
+      }
+    ],
+    "color": "#707070",
+    "selectedColor": "#23abcd"
+  }
+}
